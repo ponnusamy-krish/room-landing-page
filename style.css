@@ -206,7 +206,7 @@ h1{
 
 }
 .item3{
-background-color: yellow;
+
 background-image: url(./images/image-about-dark.jpg);
 background-size: cover;
 
@@ -214,7 +214,7 @@ background-size: cover;
 }
 
 .item5{
-    background-color: hotpink;
+   
     background-image: url(./images/image-about-light.jpg);
     background-size: cover;
 }
